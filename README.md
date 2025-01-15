@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ennismore-Gamer, but you can call me ENnismore.
+- 👋 Hi, I’m @Ennismore-Gamer, but you can call me Ennismore.
 - 👀 I’m interested in making code for .public use
 - 🌱 I’m currently learning the basics.
 - 💞️ I’m looking to collaborate on nothing currently.
